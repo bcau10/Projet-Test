@@ -11,6 +11,7 @@ public class MicrocommerceApplication {
 		SpringApplication.run(MicrocommerceApplication.class, args);
 		System.out.print("Je chante");
 		System.out.print("du Goldman");
+		System.out.print("et du Obispo");
 	}
 
 
