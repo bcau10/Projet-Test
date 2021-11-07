@@ -12,6 +12,7 @@ public class MicrocommerceApplication {
 		System.out.print("Je chante");
 		System.out.print("du Goldman");
 		System.out.print("et du Obispo");
+		System.out.print("Je chante très très bien");
 	}
 
 
